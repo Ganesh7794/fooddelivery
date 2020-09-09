@@ -27,8 +27,4 @@ public class fooddeliveryconfig {
 	    public EntityManager entityManager(EntityManagerFactory entityManagerFactory) {
 	        return entityManagerFactory.createEntityManager();
 	    }
-
-
-		
-
 }
